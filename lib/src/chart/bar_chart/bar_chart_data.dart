@@ -229,7 +229,7 @@ class BarChartRodData {
 
   const BarChartRodData({
     this.y,
-    this.color = Colors.blueAccent,
+    this.color = Colors.transparent,
     this.width = 8,
     this.borderRadius,
     this.backDrawRodData = const BackgroundBarChartRodData(),
